@@ -6,7 +6,7 @@ package com.mycompany.todolist;
 
 /**
  *
- * @author Made Aditya
+ * @author Widya Sri
  */
 import java.util.ArrayList;
 import java.util.Scanner;
