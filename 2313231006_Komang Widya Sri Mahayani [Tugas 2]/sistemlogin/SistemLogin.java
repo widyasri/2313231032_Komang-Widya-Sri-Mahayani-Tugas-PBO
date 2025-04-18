@@ -8,7 +8,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author Made Aditya
+ * @author Widya Sri
  */
 public class SistemLogin {
     public static void main(String[] args) {
