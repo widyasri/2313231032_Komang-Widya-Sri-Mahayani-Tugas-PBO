@@ -6,7 +6,7 @@ package com.mycompany.tebakangka;
 
 /**
  *
- * @author Made Aditya
+ * @author Widya Sri
  */
 import java.util.Scanner;
 import java.util.Random;
